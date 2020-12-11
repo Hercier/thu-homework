@@ -1,2 +1,3 @@
 # thu-homework
-The code for school projects in Tsinghua University
+The codes for school projects in Tsinghua University
+Take no responsibility for any misuse of these files.
